@@ -16,8 +16,7 @@ class Player
         is_int = true
       end 
     end 
-    puts is_int
-    return is_int
+    is_int
   end 
 
   def question
